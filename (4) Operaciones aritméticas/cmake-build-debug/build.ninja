@@ -73,6 +73,39 @@ build main.exe: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.cpp.o
   TARGET_IMPLIB = libmain.dll.a
   TARGET_PDB = main.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio
+
+
+#############################################
+# Order-only phony target for ejercicio
+
+build cmake_object_order_depends_target_ejercicio: phony || CMakeFiles/ejercicio.dir
+
+build CMakeFiles/ejercicio.dir/ejercicio.cpp.obj: CXX_COMPILER__ejercicio_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(4)$ Operaciones$ aritméticas/ejercicio.cpp || cmake_object_order_depends_target_ejercicio
+  DEP_FILE = CMakeFiles\ejercicio.dir\ejercicio.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio
+
+
+#############################################
+# Link the executable ejercicio.exe
+
+build ejercicio.exe: CXX_EXECUTABLE_LINKER__ejercicio_Debug CMakeFiles/ejercicio.dir/ejercicio.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio.exe
+  TARGET_IMPLIB = libejercicio.dll.a
+  TARGET_PDB = ejercicio.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -99,6 +132,8 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
+build ejercicio: phony ejercicio.exe
+
 build main: phony main.exe
 
 # =============================================================================
@@ -109,7 +144,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(4) Operaciones aritméticas/cmake-build-debug
 
-build all: phony main.exe
+build all: phony main.exe ejercicio.exe
 
 # =============================================================================
 # Built-in targets
