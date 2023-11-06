@@ -1,0 +1,4 @@
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(1) Primer programa/cmake-build-debug/CMakeFiles/main1.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(1) Primer programa/cmake-build-debug/CMakeFiles/main2.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(1) Primer programa/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(1) Primer programa/cmake-build-debug/CMakeFiles/rebuild_cache.dir
