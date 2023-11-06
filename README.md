@@ -1,2 +1,3 @@
 # Estudio
-para estudiar y repasar
+Para estudiar y repasar programación
+https://github.com/nquinbla/Estudio.git
