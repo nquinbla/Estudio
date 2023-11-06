@@ -1,0 +1,96 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_2__Tipos_de_datos",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "caracter::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-caracter-Debug-8e460d2d7707346992e1.json",
+					"name" : "caracter",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "doble::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-doble-Debug-b280c3b873526702ce9b.json",
+					"name" : "doble",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "entero::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-entero-Debug-0ab140966affee31b498.json",
+					"name" : "entero",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "flotante::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-flotante-Debug-887372cf2543f9e166f0.json",
+					"name" : "flotante",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-94721dfa5d0d86276719.json",
+					"name" : "main",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug",
+		"source" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}

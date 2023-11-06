@@ -1,0 +1,7 @@
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/entero.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/flotante.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/doble.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/caracter.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/main.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(2) Tipos de datos/cmake-build-debug/CMakeFiles/rebuild_cache.dir
