@@ -172,6 +172,204 @@ build ejercicio2.exe: CXX_EXECUTABLE_LINKER__ejercicio2_Debug CMakeFiles/ejercic
   TARGET_IMPLIB = libejercicio2.dll.a
   TARGET_PDB = ejercicio2.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target main3
+
+
+#############################################
+# Order-only phony target for main3
+
+build cmake_object_order_depends_target_main3: phony || CMakeFiles/main3.dir
+
+build CMakeFiles/main3.dir/main3.cpp.obj: CXX_COMPILER__main3_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/main3.cpp || cmake_object_order_depends_target_main3
+  DEP_FILE = CMakeFiles\main3.dir\main3.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\main3.dir
+  OBJECT_FILE_DIR = CMakeFiles\main3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target main3
+
+
+#############################################
+# Link the executable main3.exe
+
+build main3.exe: CXX_EXECUTABLE_LINKER__main3_Debug CMakeFiles/main3.dir/main3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\main3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = main3.exe
+  TARGET_IMPLIB = libmain3.dll.a
+  TARGET_PDB = main3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio3
+
+
+#############################################
+# Order-only phony target for ejercicio3
+
+build cmake_object_order_depends_target_ejercicio3: phony || CMakeFiles/ejercicio3.dir
+
+build CMakeFiles/ejercicio3.dir/ejercicio3.cpp.obj: CXX_COMPILER__ejercicio3_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/ejercicio3.cpp || cmake_object_order_depends_target_ejercicio3
+  DEP_FILE = CMakeFiles\ejercicio3.dir\ejercicio3.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio3.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio3.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio3
+
+
+#############################################
+# Link the executable ejercicio3.exe
+
+build ejercicio3.exe: CXX_EXECUTABLE_LINKER__ejercicio3_Debug CMakeFiles/ejercicio3.dir/ejercicio3.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio3.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio3.exe
+  TARGET_IMPLIB = libejercicio3.dll.a
+  TARGET_PDB = ejercicio3.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target main4
+
+
+#############################################
+# Order-only phony target for main4
+
+build cmake_object_order_depends_target_main4: phony || CMakeFiles/main4.dir
+
+build CMakeFiles/main4.dir/main4.cpp.obj: CXX_COMPILER__main4_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/main4.cpp || cmake_object_order_depends_target_main4
+  DEP_FILE = CMakeFiles\main4.dir\main4.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\main4.dir
+  OBJECT_FILE_DIR = CMakeFiles\main4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target main4
+
+
+#############################################
+# Link the executable main4.exe
+
+build main4.exe: CXX_EXECUTABLE_LINKER__main4_Debug CMakeFiles/main4.dir/main4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\main4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = main4.exe
+  TARGET_IMPLIB = libmain4.dll.a
+  TARGET_PDB = main4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio4
+
+
+#############################################
+# Order-only phony target for ejercicio4
+
+build cmake_object_order_depends_target_ejercicio4: phony || CMakeFiles/ejercicio4.dir
+
+build CMakeFiles/ejercicio4.dir/ejercicio4.cpp.obj: CXX_COMPILER__ejercicio4_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/ejercicio4.cpp || cmake_object_order_depends_target_ejercicio4
+  DEP_FILE = CMakeFiles\ejercicio4.dir\ejercicio4.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio4.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio4.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio4
+
+
+#############################################
+# Link the executable ejercicio4.exe
+
+build ejercicio4.exe: CXX_EXECUTABLE_LINKER__ejercicio4_Debug CMakeFiles/ejercicio4.dir/ejercicio4.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio4.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio4.exe
+  TARGET_IMPLIB = libejercicio4.dll.a
+  TARGET_PDB = ejercicio4.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target main5
+
+
+#############################################
+# Order-only phony target for main5
+
+build cmake_object_order_depends_target_main5: phony || CMakeFiles/main5.dir
+
+build CMakeFiles/main5.dir/main5.cpp.obj: CXX_COMPILER__main5_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/main5.cpp || cmake_object_order_depends_target_main5
+  DEP_FILE = CMakeFiles\main5.dir\main5.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\main5.dir
+  OBJECT_FILE_DIR = CMakeFiles\main5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target main5
+
+
+#############################################
+# Link the executable main5.exe
+
+build main5.exe: CXX_EXECUTABLE_LINKER__main5_Debug CMakeFiles/main5.dir/main5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\main5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = main5.exe
+  TARGET_IMPLIB = libmain5.dll.a
+  TARGET_PDB = main5.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio5
+
+
+#############################################
+# Order-only phony target for ejercicio5
+
+build cmake_object_order_depends_target_ejercicio5: phony || CMakeFiles/ejercicio5.dir
+
+build CMakeFiles/ejercicio5.dir/ejercicio5.cpp.obj: CXX_COMPILER__ejercicio5_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/ejercicio5.cpp || cmake_object_order_depends_target_ejercicio5
+  DEP_FILE = CMakeFiles\ejercicio5.dir\ejercicio5.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio5.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio5.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio5
+
+
+#############################################
+# Link the executable ejercicio5.exe
+
+build ejercicio5.exe: CXX_EXECUTABLE_LINKER__ejercicio5_Debug CMakeFiles/ejercicio5.dir/ejercicio5.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio5.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio5.exe
+  TARGET_IMPLIB = libejercicio5.dll.a
+  TARGET_PDB = ejercicio5.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -202,9 +400,21 @@ build ejercicio1: phony ejercicio1.exe
 
 build ejercicio2: phony ejercicio2.exe
 
+build ejercicio3: phony ejercicio3.exe
+
+build ejercicio4: phony ejercicio4.exe
+
+build ejercicio5: phony ejercicio5.exe
+
 build main1: phony main1.exe
 
 build main2: phony main2.exe
+
+build main3: phony main3.exe
+
+build main4: phony main4.exe
+
+build main5: phony main5.exe
 
 # =============================================================================
 # Folder targets.
@@ -214,7 +424,7 @@ build main2: phony main2.exe
 #############################################
 # Folder: C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug
 
-build all: phony main1.exe ejercicio1.exe main2.exe ejercicio2.exe
+build all: phony main1.exe ejercicio1.exe main2.exe ejercicio2.exe main3.exe ejercicio3.exe main4.exe ejercicio4.exe main5.exe ejercicio5.exe
 
 # =============================================================================
 # Built-in targets
