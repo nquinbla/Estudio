@@ -1,0 +1,11 @@
+# ninja log v5
+4	711	7210909407921954	CMakeFiles/ejercicicio1.dir/ejercicio1.cpp.obj	ee9076a80c8ae93
+3	622	7210914144237502	CMakeFiles/ejercicicio2.dir/ejercicio2.cpp.obj	ff95b94c1118823b
+712	899	7210909409759353	ejercicicio1.exe	65c917e5afb076cb
+0	919	7210926140561181	CMakeFiles/ejercicicio3.dir/ejercicio3.cpp.obj	af4fcc5c1f843f4a
+623	783	7210914145808350	ejercicicio2.exe	a36000afda7fb95b
+921	1182	7210926143106588	ejercicicio3.exe	44ce1a29ee8684ea
+1	782	7210931526292844	CMakeFiles/ejercicicio4.dir/ejercicio4.cpp.obj	980211f49a0ca7eb
+782	1021	7210931528628110	ejercicicio4.exe	18033d38f3f3f3f8
+1	931	7210954726515922	CMakeFiles/ejercicicio7.dir/ejercicio7.cpp.obj	552114233f518f3c
+932	1214	7210954729265813	ejercicicio7.exe	eeb3980adc3cfd0f

@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_13_18__Condicionales",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio1-Debug-f7ed86cf9a9ac9f70119.json",
+					"name" : "ejercicicio1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio2-Debug-f0d43cbf9777e2095827.json",
+					"name" : "ejercicicio2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio3-Debug-57b177231717c72c0907.json",
+					"name" : "ejercicicio3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio4-Debug-5d2c84b5c82121c3511b.json",
+					"name" : "ejercicicio4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio5-Debug-28be061ea787426681ea.json",
+					"name" : "ejercicicio5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio6-Debug-e78854daca2f083ba07a.json",
+					"name" : "ejercicicio6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio7-Debug-bcb9cf71a9b63838f04b.json",
+					"name" : "ejercicicio7",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug",
+		"source" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
