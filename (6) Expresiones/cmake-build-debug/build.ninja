@@ -41,70 +41,136 @@ include CMakeFiles/rules.ninja
 
 cmake_ninja_workdir = C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/cmake-build-debug/
 # =============================================================================
-# Object build statements for EXECUTABLE target main
+# Object build statements for EXECUTABLE target main1
 
 
 #############################################
-# Order-only phony target for main
+# Order-only phony target for main1
 
-build cmake_object_order_depends_target_main: phony || CMakeFiles/main.dir
+build cmake_object_order_depends_target_main1: phony || CMakeFiles/main1.dir
 
-build CMakeFiles/main.dir/main.cpp.obj: CXX_COMPILER__main_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/main.cpp || cmake_object_order_depends_target_main
-  DEP_FILE = CMakeFiles\main.dir\main.cpp.obj.d
+build CMakeFiles/main1.dir/main1.cpp.obj: CXX_COMPILER__main1_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/main1.cpp || cmake_object_order_depends_target_main1
+  DEP_FILE = CMakeFiles\main1.dir\main1.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\main.dir
-  OBJECT_FILE_DIR = CMakeFiles\main.dir
+  OBJECT_DIR = CMakeFiles\main1.dir
+  OBJECT_FILE_DIR = CMakeFiles\main1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target main
+# Link build statements for EXECUTABLE target main1
 
 
 #############################################
-# Link the executable main.exe
+# Link the executable main1.exe
 
-build main.exe: CXX_EXECUTABLE_LINKER__main_Debug CMakeFiles/main.dir/main.cpp.obj
+build main1.exe: CXX_EXECUTABLE_LINKER__main1_Debug CMakeFiles/main1.dir/main1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\main.dir
+  OBJECT_DIR = CMakeFiles\main1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = main.exe
-  TARGET_IMPLIB = libmain.dll.a
-  TARGET_PDB = main.exe.dbg
+  TARGET_FILE = main1.exe
+  TARGET_IMPLIB = libmain1.dll.a
+  TARGET_PDB = main1.exe.dbg
 
 # =============================================================================
-# Object build statements for EXECUTABLE target ejercicio
+# Object build statements for EXECUTABLE target ejercicio1
 
 
 #############################################
-# Order-only phony target for ejercicio
+# Order-only phony target for ejercicio1
 
-build cmake_object_order_depends_target_ejercicio: phony || CMakeFiles/ejercicio.dir
+build cmake_object_order_depends_target_ejercicio1: phony || CMakeFiles/ejercicio1.dir
 
-build CMakeFiles/ejercicio.dir/ejercicio.cpp.obj: CXX_COMPILER__ejercicio_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/ejercicio.cpp || cmake_object_order_depends_target_ejercicio
-  DEP_FILE = CMakeFiles\ejercicio.dir\ejercicio.cpp.obj.d
+build CMakeFiles/ejercicio1.dir/ejercicio1.cpp.obj: CXX_COMPILER__ejercicio1_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/ejercicio1.cpp || cmake_object_order_depends_target_ejercicio1
+  DEP_FILE = CMakeFiles\ejercicio1.dir\ejercicio1.cpp.obj.d
   FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
-  OBJECT_DIR = CMakeFiles\ejercicio.dir
-  OBJECT_FILE_DIR = CMakeFiles\ejercicio.dir
+  OBJECT_DIR = CMakeFiles\ejercicio1.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio1.dir
 
 
 # =============================================================================
-# Link build statements for EXECUTABLE target ejercicio
+# Link build statements for EXECUTABLE target ejercicio1
 
 
 #############################################
-# Link the executable ejercicio.exe
+# Link the executable ejercicio1.exe
 
-build ejercicio.exe: CXX_EXECUTABLE_LINKER__ejercicio_Debug CMakeFiles/ejercicio.dir/ejercicio.cpp.obj
+build ejercicio1.exe: CXX_EXECUTABLE_LINKER__ejercicio1_Debug CMakeFiles/ejercicio1.dir/ejercicio1.cpp.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
-  OBJECT_DIR = CMakeFiles\ejercicio.dir
+  OBJECT_DIR = CMakeFiles\ejercicio1.dir
   POST_BUILD = cd .
   PRE_LINK = cd .
-  TARGET_FILE = ejercicio.exe
-  TARGET_IMPLIB = libejercicio.dll.a
-  TARGET_PDB = ejercicio.exe.dbg
+  TARGET_FILE = ejercicio1.exe
+  TARGET_IMPLIB = libejercicio1.dll.a
+  TARGET_PDB = ejercicio1.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target main2
+
+
+#############################################
+# Order-only phony target for main2
+
+build cmake_object_order_depends_target_main2: phony || CMakeFiles/main2.dir
+
+build CMakeFiles/main2.dir/main2.cpp.obj: CXX_COMPILER__main2_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/main2.cpp || cmake_object_order_depends_target_main2
+  DEP_FILE = CMakeFiles\main2.dir\main2.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\main2.dir
+  OBJECT_FILE_DIR = CMakeFiles\main2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target main2
+
+
+#############################################
+# Link the executable main2.exe
+
+build main2.exe: CXX_EXECUTABLE_LINKER__main2_Debug CMakeFiles/main2.dir/main2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\main2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = main2.exe
+  TARGET_IMPLIB = libmain2.dll.a
+  TARGET_PDB = main2.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicio2
+
+
+#############################################
+# Order-only phony target for ejercicio2
+
+build cmake_object_order_depends_target_ejercicio2: phony || CMakeFiles/ejercicio2.dir
+
+build CMakeFiles/ejercicio2.dir/ejercicio2.cpp.obj: CXX_COMPILER__ejercicio2_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6)$ Expresiones/ejercicio2.cpp || cmake_object_order_depends_target_ejercicio2
+  DEP_FILE = CMakeFiles\ejercicio2.dir\ejercicio2.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicio2.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicio2.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicio2
+
+
+#############################################
+# Link the executable ejercicio2.exe
+
+build ejercicio2.exe: CXX_EXECUTABLE_LINKER__ejercicio2_Debug CMakeFiles/ejercicio2.dir/ejercicio2.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicio2.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicio2.exe
+  TARGET_IMPLIB = libejercicio2.dll.a
+  TARGET_PDB = ejercicio2.exe.dbg
 
 
 #############################################
@@ -132,9 +198,13 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 # =============================================================================
 # Target aliases.
 
-build ejercicio: phony ejercicio.exe
+build ejercicio1: phony ejercicio1.exe
 
-build main: phony main.exe
+build ejercicio2: phony ejercicio2.exe
+
+build main1: phony main1.exe
+
+build main2: phony main2.exe
 
 # =============================================================================
 # Folder targets.
@@ -144,7 +214,7 @@ build main: phony main.exe
 #############################################
 # Folder: C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug
 
-build all: phony main.exe ejercicio.exe
+build all: phony main1.exe ejercicio1.exe main2.exe ejercicio2.exe
 
 # =============================================================================
 # Built-in targets

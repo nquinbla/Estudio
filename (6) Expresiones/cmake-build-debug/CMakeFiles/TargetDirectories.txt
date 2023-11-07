@@ -1,4 +1,6 @@
-C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/main.dir
-C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/ejercicio.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/main1.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/ejercicio1.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/main2.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/ejercicio2.dir
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(6) Expresiones/cmake-build-debug/CMakeFiles/rebuild_cache.dir
