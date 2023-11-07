@@ -1,0 +1,8 @@
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/igualdad.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/distinto.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/mayor.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/menor.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/mayor-igual.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/menor-igual.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug/CMakeFiles/rebuild_cache.dir

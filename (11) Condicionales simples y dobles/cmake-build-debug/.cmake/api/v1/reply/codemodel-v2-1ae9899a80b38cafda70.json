@@ -1,0 +1,105 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_11_18__Condicionales",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "distinto::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-distinto-Debug-d8152a0c85607a62fccf.json",
+					"name" : "distinto",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "igualdad::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-igualdad-Debug-1db8d698471e9bc9b76a.json",
+					"name" : "igualdad",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mayor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mayor-Debug-1dabc63304f30b4d6c60.json",
+					"name" : "mayor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "mayor-igual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-mayor-igual-Debug-c1cb015c9cdf94e0e081.json",
+					"name" : "mayor-igual",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "menor::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-menor-Debug-04a834ccae29b9e0933d.json",
+					"name" : "menor",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "menor-igual::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-menor-igual-Debug-086dfeb36fe33644fb67.json",
+					"name" : "menor-igual",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles/cmake-build-debug",
+		"source" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(11) Condicionales simples y dobles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
