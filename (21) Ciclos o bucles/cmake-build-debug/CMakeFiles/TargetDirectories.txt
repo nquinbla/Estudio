@@ -1,0 +1,3 @@
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(21) Ciclos o bucles/cmake-build-debug/CMakeFiles/_21__Ciclos_o_bucles.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(21) Ciclos o bucles/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(21) Ciclos o bucles/cmake-build-debug/CMakeFiles/rebuild_cache.dir
