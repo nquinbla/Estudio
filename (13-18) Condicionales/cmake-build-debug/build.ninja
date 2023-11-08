@@ -271,6 +271,138 @@ build ejercicicio7.exe: CXX_EXECUTABLE_LINKER__ejercicicio7_Debug CMakeFiles/eje
   TARGET_IMPLIB = libejercicicio7.dll.a
   TARGET_PDB = ejercicicio7.exe.dbg
 
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicicio8
+
+
+#############################################
+# Order-only phony target for ejercicicio8
+
+build cmake_object_order_depends_target_ejercicicio8: phony || CMakeFiles/ejercicicio8.dir
+
+build CMakeFiles/ejercicicio8.dir/ejercicio8.cpp.obj: CXX_COMPILER__ejercicicio8_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18)$ Condicionales/ejercicio8.cpp || cmake_object_order_depends_target_ejercicicio8
+  DEP_FILE = CMakeFiles\ejercicicio8.dir\ejercicio8.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicicio8.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicicio8.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicicio8
+
+
+#############################################
+# Link the executable ejercicicio8.exe
+
+build ejercicicio8.exe: CXX_EXECUTABLE_LINKER__ejercicicio8_Debug CMakeFiles/ejercicicio8.dir/ejercicio8.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicicio8.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicicio8.exe
+  TARGET_IMPLIB = libejercicicio8.dll.a
+  TARGET_PDB = ejercicicio8.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicicio9
+
+
+#############################################
+# Order-only phony target for ejercicicio9
+
+build cmake_object_order_depends_target_ejercicicio9: phony || CMakeFiles/ejercicicio9.dir
+
+build CMakeFiles/ejercicicio9.dir/ejercicio9.cpp.obj: CXX_COMPILER__ejercicicio9_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18)$ Condicionales/ejercicio9.cpp || cmake_object_order_depends_target_ejercicicio9
+  DEP_FILE = CMakeFiles\ejercicicio9.dir\ejercicio9.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicicio9.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicicio9.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicicio9
+
+
+#############################################
+# Link the executable ejercicicio9.exe
+
+build ejercicicio9.exe: CXX_EXECUTABLE_LINKER__ejercicicio9_Debug CMakeFiles/ejercicicio9.dir/ejercicio9.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicicio9.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicicio9.exe
+  TARGET_IMPLIB = libejercicicio9.dll.a
+  TARGET_PDB = ejercicicio9.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicicio10
+
+
+#############################################
+# Order-only phony target for ejercicicio10
+
+build cmake_object_order_depends_target_ejercicicio10: phony || CMakeFiles/ejercicicio10.dir
+
+build CMakeFiles/ejercicicio10.dir/ejercicio10.cpp.obj: CXX_COMPILER__ejercicicio10_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18)$ Condicionales/ejercicio10.cpp || cmake_object_order_depends_target_ejercicicio10
+  DEP_FILE = CMakeFiles\ejercicicio10.dir\ejercicio10.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicicio10.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicicio10.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicicio10
+
+
+#############################################
+# Link the executable ejercicicio10.exe
+
+build ejercicicio10.exe: CXX_EXECUTABLE_LINKER__ejercicicio10_Debug CMakeFiles/ejercicicio10.dir/ejercicio10.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicicio10.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicicio10.exe
+  TARGET_IMPLIB = libejercicicio10.dll.a
+  TARGET_PDB = ejercicicio10.exe.dbg
+
+# =============================================================================
+# Object build statements for EXECUTABLE target ejercicicio11
+
+
+#############################################
+# Order-only phony target for ejercicicio11
+
+build cmake_object_order_depends_target_ejercicicio11: phony || CMakeFiles/ejercicicio11.dir
+
+build CMakeFiles/ejercicicio11.dir/ejercicio11.cpp.obj: CXX_COMPILER__ejercicicio11_unscanned_Debug C$:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18)$ Condicionales/ejercicio11.cpp || cmake_object_order_depends_target_ejercicicio11
+  DEP_FILE = CMakeFiles\ejercicicio11.dir\ejercicio11.cpp.obj.d
+  FLAGS = -g -std=gnu++14 -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\ejercicicio11.dir
+  OBJECT_FILE_DIR = CMakeFiles\ejercicicio11.dir
+
+
+# =============================================================================
+# Link build statements for EXECUTABLE target ejercicicio11
+
+
+#############################################
+# Link the executable ejercicicio11.exe
+
+build ejercicicio11.exe: CXX_EXECUTABLE_LINKER__ejercicicio11_Debug CMakeFiles/ejercicicio11.dir/ejercicio11.cpp.obj
+  FLAGS = -g
+  LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
+  OBJECT_DIR = CMakeFiles\ejercicicio11.dir
+  POST_BUILD = cd .
+  PRE_LINK = cd .
+  TARGET_FILE = ejercicicio11.exe
+  TARGET_IMPLIB = libejercicicio11.dll.a
+  TARGET_PDB = ejercicicio11.exe.dbg
+
 
 #############################################
 # Utility command for edit_cache
@@ -299,6 +431,10 @@ build rebuild_cache: phony CMakeFiles/rebuild_cache.util
 
 build ejercicicio1: phony ejercicicio1.exe
 
+build ejercicicio10: phony ejercicicio10.exe
+
+build ejercicicio11: phony ejercicicio11.exe
+
 build ejercicicio2: phony ejercicicio2.exe
 
 build ejercicicio3: phony ejercicicio3.exe
@@ -311,6 +447,10 @@ build ejercicicio6: phony ejercicicio6.exe
 
 build ejercicicio7: phony ejercicicio7.exe
 
+build ejercicicio8: phony ejercicicio8.exe
+
+build ejercicicio9: phony ejercicicio9.exe
+
 # =============================================================================
 # Folder targets.
 
@@ -319,7 +459,7 @@ build ejercicicio7: phony ejercicicio7.exe
 #############################################
 # Folder: C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug
 
-build all: phony ejercicicio1.exe ejercicicio2.exe ejercicicio3.exe ejercicicio4.exe ejercicicio5.exe ejercicicio6.exe ejercicicio7.exe
+build all: phony ejercicicio1.exe ejercicicio2.exe ejercicicio3.exe ejercicicio4.exe ejercicicio5.exe ejercicicio6.exe ejercicicio7.exe ejercicicio8.exe ejercicicio9.exe ejercicicio10.exe ejercicicio11.exe
 
 # =============================================================================
 # Built-in targets

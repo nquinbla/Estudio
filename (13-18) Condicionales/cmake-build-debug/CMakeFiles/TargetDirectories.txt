@@ -5,5 +5,9 @@ C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-bu
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio5.dir
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio6.dir
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio7.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio8.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio9.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio10.dir
+C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/ejercicicio11.dir
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/edit_cache.dir
 C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(13-18) Condicionales/cmake-build-debug/CMakeFiles/rebuild_cache.dir

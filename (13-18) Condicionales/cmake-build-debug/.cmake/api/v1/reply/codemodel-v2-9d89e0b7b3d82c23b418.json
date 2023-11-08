@@ -21,7 +21,11 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -42,7 +46,11 @@
 						3,
 						4,
 						5,
-						6
+						6,
+						7,
+						8,
+						9,
+						10
 					]
 				}
 			],
@@ -53,6 +61,20 @@
 					"id" : "ejercicicio1::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ejercicicio1-Debug-f7ed86cf9a9ac9f70119.json",
 					"name" : "ejercicicio1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio10::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio10-Debug-178b287314617b9cf45c.json",
+					"name" : "ejercicicio10",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio11::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio11-Debug-984e71d970e8af570e87.json",
+					"name" : "ejercicicio11",
 					"projectIndex" : 0
 				},
 				{
@@ -95,6 +117,20 @@
 					"id" : "ejercicicio7::@6890427a1f51a3e7e1df",
 					"jsonFile" : "target-ejercicicio7-Debug-bcb9cf71a9b63838f04b.json",
 					"name" : "ejercicicio7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio8-Debug-4a3be0c73ed1d4c4388b.json",
+					"name" : "ejercicicio8",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicicio9::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicicio9-Debug-e4fdd9d831060a5ce825.json",
+					"name" : "ejercicicio9",
 					"projectIndex" : 0
 				}
 			]
