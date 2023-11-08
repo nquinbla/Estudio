@@ -1,0 +1,186 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.26"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "_19__Ciclos_o_bucles",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio1::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio1-Debug-cab771aae3d73fcba32b.json",
+					"name" : "ejercicio1",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio2-Debug-1f386c8b5630f1332b14.json",
+					"name" : "ejercicio2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio3-Debug-5875aa8528327211b9ed.json",
+					"name" : "ejercicio3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio4-Debug-e1e12e4f34a8531ec85f.json",
+					"name" : "ejercicio4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio5-Debug-d3902e0693c3c246638c.json",
+					"name" : "ejercicio5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio6-Debug-64e6baed614df8be432b.json",
+					"name" : "ejercicio6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "ejercicio7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-ejercicio7-Debug-a5a589d8ffd4db1a74eb.json",
+					"name" : "ejercicio7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main-Debug-c7488a1a2bd15bcc268b.json",
+					"name" : "main",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main2-Debug-a63d5cffb5246ad2ceef.json",
+					"name" : "main2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main3::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main3-Debug-55bff67a6fdb6d3fd76a.json",
+					"name" : "main3",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main4::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main4-Debug-816ea6636e547956aebe.json",
+					"name" : "main4",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main5::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main5-Debug-9b7937f274a1b173b7ac.json",
+					"name" : "main5",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main6::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main6-Debug-4f8eea433d4fbba0a53d.json",
+					"name" : "main6",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main7::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main7-Debug-a4ab758c12bd7f6e0ab2.json",
+					"name" : "main7",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "main8::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-main8-Debug-52a0a19e0422d2c2fc06.json",
+					"name" : "main8",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(22-29) Ciclos o bucles/cmake-build-debug",
+		"source" : "C:/Users/nerea/OneDrive/Documentos/GitHub/Estudio/(22-29) Ciclos o bucles"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 5
+	}
+}
